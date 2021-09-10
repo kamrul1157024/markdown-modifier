@@ -59,7 +59,7 @@ content of header 1
 ```markdown
 # Header 1
 content of header 1
- # Header 2
+# Header 2
 content from header 2
 ## sub-header 1
 content from sub-header 1
